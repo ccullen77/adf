@@ -1,0 +1,9 @@
+{
+	"name": "mytestadfcc",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4ebf5fdd-b5e6-4228-916d-c7ebd2286725",
+		"tenantId": "bfa0f17d-fda9-4674-be38-8c188a703ef3"
+	}
+}
